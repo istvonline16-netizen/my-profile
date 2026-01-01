@@ -1,6 +1,5 @@
-# my-profile
-my first web
-[index.html](https://github.com/user-attachments/files/24401542/ikbal.html)
+
+(https://github.com/user-attachments/files/24401542/ikbal.html)
 <!DOCTYPE html>
 <html lang="bn">
   <head>
@@ -105,6 +104,6 @@ social-links a {
                <a href="http://facebook.com/iqbal.hossen.807082" target="-blank">Facebook</a>
                </div>
           
-     </body>
-     </html>     
+     
+       
         
