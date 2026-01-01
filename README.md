@@ -1,6 +1,6 @@
 # my-profile
 my first web
-[ikbal.html](https://github.com/user-attachments/files/24401542/ikbal.html)
+[index.html](https://github.com/user-attachments/files/24401542/ikbal.html)
 <!DOCTYPE html>
 <html lang="bn">
   <head>
